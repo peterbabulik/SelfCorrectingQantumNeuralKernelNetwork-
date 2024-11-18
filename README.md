@@ -1,0 +1,2 @@
+# SelfCorrectingQantumNeuralKernelNetwork-
+SelfCorrectingQantumNeuralKernelNetwork
