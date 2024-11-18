@@ -1,5 +1,3 @@
-# SelfCorrectingQantumNeuralKernelNetwork-
-
 # Self-Correcting Quantum Neural Kernel Network
 
 ![Quantum Neural Network](https://img.shields.io/badge/Quantum-Neural%20Network-blue)
